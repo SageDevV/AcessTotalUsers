@@ -1,0 +1,14 @@
+C:\Users\122589\source\repos\UserAcess\UserAcess\bin\Debug\netcoreapp3.1\UserTotalAcess.exe
+C:\Users\122589\source\repos\UserAcess\UserAcess\bin\Debug\netcoreapp3.1\UserTotalAcess.deps.json
+C:\Users\122589\source\repos\UserAcess\UserAcess\bin\Debug\netcoreapp3.1\UserTotalAcess.runtimeconfig.json
+C:\Users\122589\source\repos\UserAcess\UserAcess\bin\Debug\netcoreapp3.1\UserTotalAcess.runtimeconfig.dev.json
+C:\Users\122589\source\repos\UserAcess\UserAcess\bin\Debug\netcoreapp3.1\UserTotalAcess.dll
+C:\Users\122589\source\repos\UserAcess\UserAcess\bin\Debug\netcoreapp3.1\UserTotalAcess.pdb
+C:\Users\122589\source\repos\UserAcess\UserAcess\obj\Debug\netcoreapp3.1\UserTotalAcess.csproj.AssemblyReference.cache
+C:\Users\122589\source\repos\UserAcess\UserAcess\obj\Debug\netcoreapp3.1\UserTotalAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\122589\source\repos\UserAcess\UserAcess\obj\Debug\netcoreapp3.1\UserTotalAcess.AssemblyInfoInputs.cache
+C:\Users\122589\source\repos\UserAcess\UserAcess\obj\Debug\netcoreapp3.1\UserTotalAcess.AssemblyInfo.cs
+C:\Users\122589\source\repos\UserAcess\UserAcess\obj\Debug\netcoreapp3.1\UserTotalAcess.csproj.CoreCompileInputs.cache
+C:\Users\122589\source\repos\UserAcess\UserAcess\obj\Debug\netcoreapp3.1\UserTotalAcess.dll
+C:\Users\122589\source\repos\UserAcess\UserAcess\obj\Debug\netcoreapp3.1\UserTotalAcess.pdb
+C:\Users\122589\source\repos\UserAcess\UserAcess\obj\Debug\netcoreapp3.1\UserTotalAcess.genruntimeconfig.cache
